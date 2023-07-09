@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    box-sizing: border-box;
+  }
+
+  .nav-link:hover {
+    background-color: rgb(16, 173, 231);
+  }
+
+  .card-header:hover {
+    background-color: rgb(16, 173, 231);
+  }
+
+.padd{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 10px;
+}
+
+.log{
+    padding-top: 100px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+  .pd {
+    padding: 25px;
+    padding-top: 65px;
+  }
